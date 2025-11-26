@@ -26,6 +26,5 @@ if (primeironumero > segundonumero && segundonumero >terceironumero){
 }
 
  //verificar o aleatoria
- else {
+ else (segundoprimeiro <= segundonumero && segundonumero >= terceironumero)
  alert ("os numeros estao em ordem aleatoiria")
- }
