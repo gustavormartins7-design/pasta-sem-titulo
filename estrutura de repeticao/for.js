@@ -14,7 +14,7 @@ for(let i = 0; i<= 9; i = i + i){
 }
 
 //ultilize o for para exibir do do 1 ao 10
-for (let i =1; 1,= 10; i++) {
+for (let i =1; 1 = 10; i++) {
     console.log(1);
     
 }
